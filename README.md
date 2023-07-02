@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Georg-Ratz
+- 👋 Hi, I’m Georg @Georg-Ratz
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning NLP functionality
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
