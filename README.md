@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Georg @Georg-Ratz
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning NLP functionality
-- 📫 How to reach me ...
+- 👀 I’m interested in Python and NLP libraries
+- 🌱 I’m currently working at the T4TAI Startup 
 
 <!---
 Georg-Ratz/Georg-Ratz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
